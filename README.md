@@ -1,2 +1,3 @@
-# Proyectos
-Proyectos personales que hago para aprender nuevas tecnologías o para mejorar.
+# ToDo API
+Construcción de un API REST usando Spring Boot.
+Tecnologías usadas: H2, Spring Boot. desarrollado en SpringToolSuite.
